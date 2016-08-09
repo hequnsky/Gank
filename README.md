@@ -16,13 +16,14 @@
 Gank是一个[MaterialDesign](http://www.google.com/design/spec/material-design/)风格和[MVP]模式的项目。你可以方便地阅读暴走日报，还可以浏览妹子图以及一起看LOL开黑视频。如果你在学习中遇到任何bug、疑问，请[提交一个issue](https://github.com/hequnsky/Gank/issues/new)）
 
 ##截图
-![1]: /screenshot/Screenshot_2016-08-06-16-44-12.png
-![2]: /screenshot/Screenshot_2016-08-06-16-44-56.png
-![3]: /screenshot/screenshot_2016-08-06-16-45-24.png
-![4]: /screenshot/Screenshot_2016-08-06-16-45-40.png
-![5]: /screenshot/Screenshot_2016-08-06-16-47-09.png
-![6]: /screenshot/Screenshot_2016-08-06-16-47-33.png
-![7]: /screenshot/Screenshot_2016-08-06-16-47-41.png
+![](/screenshot/Screenshot_2016-08-06-16-44-12.png)
+![](/screenshot/Screenshot_2016-08-06-16-44-12.png)
+![](/screenshot/Screenshot_2016-08-06-16-44-56.png)
+![](/screenshot/screenshot_2016-08-06-16-45-24.png
+![](/screenshot/Screenshot_2016-08-06-16-45-40.png)
+![](/screenshot/Screenshot_2016-08-06-16-47-09.png)
+![](/screenshot/Screenshot_2016-08-06-16-47-33.png)
+![](/screenshot/Screenshot_2016-08-06-16-47-41.png)
 
 项目下载地址：http://fir.im/bqse
 
