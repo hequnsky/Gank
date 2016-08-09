@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">闲暇</string>
+    <string name="app">应用</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="nav_share">分享</string>
+    <string name="nav_setting">设置</string>
+    <string name="share_to">分享到</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="share_app_description">这个项目真不错，https://github.com/hequnsky/Gank</string>
+    <string name="action_settings">Settings</string>
+
+    <!--抽屉的条目-->
+    <string name="navigation_news">新闻</string>
+    <string name="navigation_photo">美图</string>
+    <string name="navigation_video">视频</string>
+    <string name="navigation_game">游戏</string>
+    <string name="loading">加载中</string>
+
+    <!--新闻模块-->
+    <string name="funy">全网最搞笑</string>
+    <string name="girl">别人家妹子</string>
+    <string name="movie">电影收割机</string>
+    <string name="game">游戏拯救者</string>
+
+
+    <!--视频模块-->
+    <string name="xu">若风解说</string>
+    <string name="commentary">最新解说</string>
+    <string name="newest">最新赛事</string>
+    <string name="splendid">精彩击杀</string>
+    <string name="cheat">其他视频</string>
+    <string name="video_rrror">视频播放出错了╮(╯Д╰)╭</string>
+    <string name="video_wait">播放器还没初始化完哎，等等咯╮(╯Д╰)╭</string>
+
+    <!--美图模块-->
+    <string name="sexy">性感美女</string>
+    <string name="japan">韩日美女</string>
+    <string name="legs">丝袜美腿</string>
+    <string name="girl_photo">美女照片</string>
+    <string name="portait">美女写真</string>
+    <string name="pure_gril">清纯美女</string>
+    <string name="car_gril">性感车模</string>
+
+    <string name="set_clear_cache">清除缓存</string>
+    <string name="set_current_cache">当前缓存为 </string>
+    <string name="set_check_version">检查更新</string>
+    <string name="set_feedback">应用反馈</string>
+    <string name="set_post_feedback">提建议或反馈bug</string>
+    <string name="version">版本 </string>
+    <string name="about_me">关于作者</string>
+    <string name="about_me_description">我是一个热爱Google和Android的开发者，如果你有好的idea或建议，不要犹豫，发送邮件跟我交流吧~</string>
+    <string name="license">免责声明</string>
+    <string name="license_description">本APP接口，资源全部来源于网络，如有侵权请告知</string>
+
+    <string name="start_download_update">检测到新版，开始下载…</string>
+    <string name="email_not_install">您的手机没有安装邮件app。</string>
+    <string name="action_about">关于</string>
+
+    <string name="pre_author" translatable="false">author</string>
+    <string name="pre_version" translatable="false">version</string>
+    <string name="cache_size">缓存大小：</string>
+
+</resources>

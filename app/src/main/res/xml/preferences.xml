@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/app">
+        <Preference
+            android:key="clear_cache"
+            android:summary="@string/set_current_cache"
+            android:title="@string/set_clear_cache"/>
+
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/action_about">
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="check_version"
+            android:title="@string/set_check_version"/>
+        <Preference
+            android:key="feedback"
+            android:summary="@string/set_post_feedback"
+            android:title="@string/set_feedback"/>
+
+        <Preference
+            android:key="@string/pre_author"
+            android:summary="一个无聊的程序员"
+            android:title="作者: hequnsky"/>
+
+        <Preference
+            android:key="@string/pre_version"
+            android:summary="01"
+            android:title="版本号"/>
+
+    </PreferenceCategory>
+</PreferenceScreen>

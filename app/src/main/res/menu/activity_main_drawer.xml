@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@mipmap/news_drawer"
+            android:title="新闻"/>
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@mipmap/photo_drawer"
+            android:title="美图"/>
+
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@mipmap/video_drawer"
+            android:title="视频"/>
+        <item
+            android:id="@+id/nav_ball"
+            android:icon="@mipmap/game"
+            android:title="游戏"/>
+    </group>
+    <item android:title="@string/app">
+        <menu>
+            <item
+                android:icon="@drawable/ic_menu_share"
+                android:id="@+id/nav_share"
+                android:title="@string/nav_share"/>
+            <item
+                android:icon="@drawable/ic_menu_manage"
+                android:id="@+id/nav_setting"
+                app:showAsAction="never"
+                android:title="@string/nav_setting"/>
+        </menu>
+    </item>
+</menu>
