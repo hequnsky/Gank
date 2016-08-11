@@ -34,7 +34,7 @@ Gank是一个[MaterialDesign](http://www.google.com/design/spec/material-design/
 - Retrofit 的使用
 - 自定义View基础
 - 缓存管理控制
-- 状态的显示和隐藏
+- 状态栏的显示和隐藏
 - RxJava 的使用，包括配合 Retrofit、RxBus 的使用等
 - RecycleView 的使用，下拉刷新，上拉到底自动加载等；
 - vitamio播放视频和自定义控制器
