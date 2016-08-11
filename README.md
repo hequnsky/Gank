@@ -15,6 +15,8 @@
 ##简介
 Gank是一个[MaterialDesign](http://www.google.com/design/spec/material-design/)风格和[MVP]模式的项目。你可以方便地阅读暴走日报，还可以浏览妹子图以及一起看LOL开黑视频。如果你在学习中遇到任何bug、疑问，请[提交一个issue](https://github.com/hequnsky/Gank/issues/new)）
 
+项目下载地址：https://www.pgyer.com/7qjo
+
 ##截图
 ![](/screenshot/screenshot_2016-08-06-16-45-24.png)
 ![](/screenshot/Screenshot_2016-08-06-16-44-12.png)
@@ -24,7 +26,7 @@ Gank是一个[MaterialDesign](http://www.google.com/design/spec/material-design/
 ![](/screenshot/Screenshot_2016-08-06-16-47-33.png)
 ![](/screenshot/Screenshot_2016-08-06-16-47-41.png)
 
-项目下载地址：http://fir.im/bqse
+
 
 ##可以学到：
 
